@@ -11,13 +11,15 @@ export default class ApiService {
 
     //ec2-13-201-81-16.ap-south-1.compute.amazonaws.com
 
-    // static BASE_URL = "http://localhost:2424";
+    
 
 
 
     // static BASE_URL = "http://lightningpushpak.duckdns.org:2424";
 
-    static BASE_URL = "http://sportsclub.zapto.org:2424";
+    static BASE_URL = "http://localhost:2424";
+
+    // static BASE_URL = "http://sportsclub.zapto.org:2424";
 
 
 
